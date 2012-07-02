@@ -1,0 +1,21 @@
+# XCode noise
+*.swp
+*~.nib
+
+build/*
+*.pbxuser
+
+*.mode1v3
+*.mode2v3
+*~.nib/ 
+*.pbxuser
+*.xcworkspace
+
+# osx noise
+.DS_store
+profile
+
+# svn
+.svn
+
+xcuserdata
